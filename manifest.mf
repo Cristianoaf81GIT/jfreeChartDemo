@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+SplashScreen-Image: br/com/profcristianoaf81/splash/sp.png
+X-COMMENT: Main-Class will be added automatically by build
+
